@@ -1,0 +1,1161 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "750Inventory",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    
+    {
+      "name": "ab_logisticscenter",
+      "enabled": true
+    },
+    
+    {
+      "name": "Actual_Craft_Time",
+      "enabled": false
+    },
+    
+    {
+      "name": "advanced-combinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "always_red_rail_signal",
+      "enabled": true
+    },
+    
+    {
+      "name": "an-impractical-number-of-signals",
+      "enabled": false
+    },
+    
+    {
+      "name": "angelsaddons-oresilos",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-petrotrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-pressuretanks",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-smeltingtrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelssmelting",
+      "enabled": true
+    },
+    
+    {
+      "name": "Armored-train",
+      "enabled": true
+    },
+    
+    {
+      "name": "AsphaltRoads",
+      "enabled": false
+    },
+    
+    {
+      "name": "attach-notes",
+      "enabled": false
+    },
+    
+    {
+      "name": "AttilaSignalsMod",
+      "enabled": true
+    },
+    
+    {
+      "name": "autobuild",
+      "enabled": false
+    },
+    
+    {
+      "name": "autocraft_revamped",
+      "enabled": true
+    },
+    
+    {
+      "name": "Automatic_Train_Painter",
+      "enabled": false
+    },
+    
+    {
+      "name": "Ballasts_bolognese_modpack",
+      "enabled": false
+    },
+    
+    {
+      "name": "belt-balancer",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-brush",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-reverser",
+      "enabled": false
+    },
+    
+    {
+      "name": "beltlayer",
+      "enabled": false
+    },
+    
+    {
+      "name": "beltSorter",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt_buffer_up",
+      "enabled": true
+    },
+    
+    {
+      "name": "BetterBots",
+      "enabled": true
+    },
+    
+    {
+      "name": "bigger-ore-stacks",
+      "enabled": true
+    },
+    
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bio_Industries",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bluebuild",
+      "enabled": false
+    },
+    
+    {
+      "name": "Blueprint-Editor",
+      "enabled": true
+    },
+    
+    {
+      "name": "BlueprintExtensions",
+      "enabled": true
+    },
+    
+    {
+      "name": "blueprint_request_chest_revamp",
+      "enabled": true
+    },
+    
+    {
+      "name": "bob-basic-belt-reskin",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobclasses",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobequipment",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobgreenhouse",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblocale",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmods_gfxtweak",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmodules",
+      "enabled": false
+    },
+    
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobvehicleequipment",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    
+    {
+      "name": "bulkteleport",
+      "enabled": false
+    },
+    
+    {
+      "name": "BurnysTSBC",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clockwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "ClosestFirst",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-AngelBob-Nuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Locale",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Nuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Processing",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Science",
+      "enabled": true
+    },
+    
+    {
+      "name": "color-coding",
+      "enabled": false
+    },
+    
+    {
+      "name": "colored_blueprints",
+      "enabled": false
+    },
+    
+    {
+      "name": "ConfigUnderLengths",
+      "enabled": true
+    },
+    
+    {
+      "name": "ConstructionTower",
+      "enabled": true
+    },
+    
+    {
+      "name": "Construction_Drones",
+      "enabled": true
+    },
+    
+    {
+      "name": "controllinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "crafting-belt",
+      "enabled": true
+    },
+    
+    {
+      "name": "crafting_combinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "creative-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "CreativeItems",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cursed-ELB",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cursed-RD",
+      "enabled": true
+    },
+    
+    {
+      "name": "deadlock-beltboxes-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dectorio",
+      "enabled": false
+    },
+    
+    {
+      "name": "distribution-centers",
+      "enabled": true
+    },
+    
+    {
+      "name": "Enhanced_Map_Colors",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio-reach",
+      "enabled": false
+    },
+    
+    {
+      "name": "FactorioReset",
+      "enabled": false
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "faster-start",
+      "enabled": false
+    },
+    
+    {
+      "name": "FlyingRoboport",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "GhostInHand",
+      "enabled": true
+    },
+    
+    {
+      "name": "Helicopters",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Honk",
+      "enabled": true
+    },
+    
+    {
+      "name": "how-it-should-have-started",
+      "enabled": true
+    },
+    
+    {
+      "name": "inland_pumps",
+      "enabled": true
+    },
+    
+    {
+      "name": "integratedCircuitry",
+      "enabled": true
+    },
+    
+    {
+      "name": "Inventory Sensor",
+      "enabled": true
+    },
+    
+    {
+      "name": "lab-floor",
+      "enabled": true
+    },
+    
+    {
+      "name": "LandMover",
+      "enabled": false
+    },
+    
+    {
+      "name": "LB-Modular-Chests",
+      "enabled": true
+    },
+    
+    {
+      "name": "LightedPolesPlus",
+      "enabled": false
+    },
+    
+    {
+      "name": "Loader_Redux",
+      "enabled": false
+    },
+    
+    {
+      "name": "LogisticRequestHinter",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "longer-belts-redux",
+      "enabled": false
+    },
+    
+    {
+      "name": "LootChestPlus",
+      "enabled": false
+    },
+    
+    {
+      "name": "LTN_Combinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "LTN_Content_Reader",
+      "enabled": true
+    },
+    
+    {
+      "name": "LTN_Language_Pack",
+      "enabled": true
+    },
+    
+    {
+      "name": "LTN_Tracker",
+      "enabled": true
+    },
+    
+    {
+      "name": "magic-lamp",
+      "enabled": true
+    },
+    
+    {
+      "name": "MegaBotStart",
+      "enabled": false
+    },
+    
+    {
+      "name": "mini-machines",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": false
+    },
+    
+    {
+      "name": "Mining_Drones",
+      "enabled": true
+    },
+    
+    {
+      "name": "modmash",
+      "enabled": false
+    },
+    
+    {
+      "name": "modular_storage",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "more-minimap-autohide-017",
+      "enabled": true
+    },
+    
+    {
+      "name": "more_circuit_symbols",
+      "enabled": false
+    },
+    
+    {
+      "name": "MyQuickStart",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nanobots",
+      "enabled": false
+    },
+    
+    {
+      "name": "NicerFuelGlow",
+      "enabled": false
+    },
+    
+    {
+      "name": "Nightfall",
+      "enabled": true
+    },
+    
+    {
+      "name": "nixie-tubes",
+      "enabled": true
+    },
+    
+    {
+      "name": "Noxys_Waterfill",
+      "enabled": true
+    },
+    
+    {
+      "name": "OpteraLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "osha_hot_swap",
+      "enabled": true
+    },
+    
+    {
+      "name": "OutpostPlanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "PCPRedux",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerAtheneum",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerBeltTools",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerBlueprinter",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerDollies",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerEquipmentKeys",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerExtended",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerInventoryTools",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerPipeTools",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerTweaks",
+      "enabled": true
+    },
+    
+    {
+      "name": "PickerVehicles",
+      "enabled": true
+    },
+    
+    {
+      "name": "pipelayer",
+      "enabled": false
+    },
+    
+    {
+      "name": "PixelArt",
+      "enabled": false
+    },
+    
+    {
+      "name": "PlannerCore",
+      "enabled": true
+    },
+    
+    {
+      "name": "portable_chests",
+      "enabled": false
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "power-combinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "ProgressiveRunning",
+      "enabled": false
+    },
+    
+    {
+      "name": "pushbutton",
+      "enabled": true
+    },
+    
+    {
+      "name": "QoL-TempStations",
+      "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    
+    {
+      "name": "QuickbarTemplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "QuickItemSearch",
+      "enabled": true
+    },
+    
+    {
+      "name": "QuickItemSwap",
+      "enabled": true
+    },
+    
+    {
+      "name": "quickstart-tech",
+      "enabled": false
+    },
+    
+    {
+      "name": "RadarMarker",
+      "enabled": false
+    },
+    
+    {
+      "name": "railloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "Rampant",
+      "enabled": true
+    },
+    
+    {
+      "name": "RealisticDecorationCleanup",
+      "enabled": true
+    },
+    
+    {
+      "name": "realvictorprms-subterranean",
+      "enabled": false
+    },
+    
+    {
+      "name": "Repair_Turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "replicating-belts",
+      "enabled": true
+    },
+    
+    {
+      "name": "resourceMarker",
+      "enabled": true
+    },
+    
+    {
+      "name": "Rich_Text_Helper",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "Robot_Battery_Research",
+      "enabled": true
+    },
+    
+    {
+      "name": "RunSpeedToggle",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallLampContrast",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallStartingInventory",
+      "enabled": false
+    },
+    
+    {
+      "name": "SchallVirtualSignal",
+      "enabled": true
+    },
+    
+    {
+      "name": "ShinyAngelGFX",
+      "enabled": true
+    },
+    
+    {
+      "name": "ShinyBobGFX",
+      "enabled": true
+    },
+    
+    {
+      "name": "ShinyIcons",
+      "enabled": true
+    },
+    
+    {
+      "name": "showTileGridLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "skan-fusion-robots",
+      "enabled": true
+    },
+    
+    {
+      "name": "skipresearch",
+      "enabled": false
+    },
+    
+    {
+      "name": "some-infinitychest",
+      "enabled": false
+    },
+    
+    {
+      "name": "some-luaconsole",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": true
+    },
+    
+    {
+      "name": "speaker-signals-expansion",
+      "enabled": true
+    },
+    
+    {
+      "name": "splatter_guard",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stargate",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Subterrain_modified",
+      "enabled": false
+    },
+    
+    {
+      "name": "SunBarSwap",
+      "enabled": true
+    },
+    
+    {
+      "name": "Tapeline",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "the-badlands",
+      "enabled": false
+    },
+    
+    {
+      "name": "TheFatController",
+      "enabled": true
+    },
+    
+    {
+      "name": "ThickerLines",
+      "enabled": true
+    },
+    
+    {
+      "name": "TimeButtons",
+      "enabled": true
+    },
+    
+    {
+      "name": "TimeTools",
+      "enabled": false
+    },
+    
+    {
+      "name": "TinyTrains",
+      "enabled": false
+    },
+    
+    {
+      "name": "TrainStart",
+      "enabled": false
+    },
+    
+    {
+      "name": "UltraFastMagnecticInserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "vonNeumann",
+      "enabled": false
+    },
+    
+    {
+      "name": "vtk-deep-core-mining",
+      "enabled": false
+    },
+    
+    {
+      "name": "water-area",
+      "enabled": false
+    },
+    
+    {
+      "name": "WideChests",
+      "enabled": true
+    },
+    
+    {
+      "name": "Wireless_Circuit_Network",
+      "enabled": false
+    },
+    
+    {
+      "name": "YARM",
+      "enabled": true
+    },
+    
+    {
+      "name": "yi_engines",
+      "enabled": true
+    },
+    
+    {
+      "name": "Yi_Tech_Tree",
+      "enabled": true
+    },
+    
+    {
+      "name": "Yuoki",
+      "enabled": true
+    },
+    
+    {
+      "name": "ZAdventure",
+      "enabled": false
+    },
+    
+    {
+      "name": "ZAdv_ruins",
+      "enabled": false
+    },
+    
+    {
+      "name": "ZoomingReinvented",
+      "enabled": true
+    }
+  ]
+}
