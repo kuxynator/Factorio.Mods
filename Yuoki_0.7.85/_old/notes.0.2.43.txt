@@ -1,0 +1,6 @@
+Version 0.2.43 - Notes
+
+Always Backup your Savegame before Update !
+
+- fixed wrong dirt-Recipe
+- added a special Smart-Inserter

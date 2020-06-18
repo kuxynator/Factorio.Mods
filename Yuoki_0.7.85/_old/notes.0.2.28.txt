@@ -1,0 +1,11 @@
+Version 0.2.28 - Notes
+
+Always Backup your Savegame before Update !
+
+- all items/entities-names moved into yuoki-industrie namespace
+- all items/entities should be migrated - if not you LOOSE these things
+- this can broken translations
+
+- changed recipes wood-gas - can now longer used as cheat
+- new washer-animation
+

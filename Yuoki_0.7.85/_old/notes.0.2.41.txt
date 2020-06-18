@@ -1,0 +1,40 @@
+Version 0.2.41 - Notes
+
+Always Backup your Savegame before Update !
+
+removes:
+- old turrets 
+- old bunker-storage (2x2, 3x3, 4x4) 
+
+changes:
+#recipes
+- recipes of all accumulators
+- recipe of Atomic Quantum Composer
+- recipe of Laika-Gate
+- recipe Advanced Machine Frame
+- recipe ZTT-Weapon
+- recipe E2-Mining Drill
+- recipes of 1M8-, 3M6- and obninsk-Boiler
+- recipe 1.8MS-Turbine-S, Rensuir-Turbine
+- recipes flying robots
+#graphics
+- graphic super-conductive-coil
+- graphic atomic-quantum-composer
+#parameter
+- solar stirling reduced output 75kW->40kW
+- AQE 180 MJ -> 200 MJ
+- stack-size 50->100 for vanilla ores and material
+
+new:
+#entity
+- YI-Roboport 120 Square
+- YI-Beacon 65% + greater Range
+- YI-Radar - faster + greater Range
+#items
+- YI-Chip-Board
+- Dot-Zetron-Wafer
+- Magnetron
+
+summary:
+- higher demand for green (-stuff dust, pellets, shards)
+- streamlined play

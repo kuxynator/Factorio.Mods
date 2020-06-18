@@ -1,0 +1,17 @@
+Version 0.3.59 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- balance slag-tile-recipes 
+- removed convert reputation->tech-signs
+- changed modified-substation to get early access in game
+- added new ground-floor lamps
+- reorder/organisation some recipes-lines (shifted recipes around)
+
+
+prepare for remove:
+* because tech-signs still produce a huge fps-drop if you cancel a recipe, i will slowly remove them,
+this experiment is from this perspective a failure. also too fix this issue i need to simplify many recipes 
+to a lower tech-tree-deep/dependency. it's nearly unplayable, if you try to search in research-tab and hover over a research ^^
+(without any research in YI but affects vanilla) - or chancel a handcraft-queue

@@ -1,0 +1,15 @@
+Version 0.2.31 - Notes
+
+Always Backup your Savegame before Update !
+
+solved problems
+- solar-dish-stirling - produce no energy
+- fluid-tanks - content-fluid-bar in correct place or off
+- all Entity-Descriptions off - because game cut's them no more -> long descriptions breaks the UI
+- new turrets included
+- to not break save-games - old turrets change on remove
+- old turrets can't no longer produced 
+- ZTT-weapon - graphic changes 
+
+i don't know the reason for now - (no fix)
+- accumulators don't work in god-mode 

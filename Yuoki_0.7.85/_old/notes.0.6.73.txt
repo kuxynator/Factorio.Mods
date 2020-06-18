@@ -1,0 +1,12 @@
+Version 0.6.73 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- MC Boiler now working and outputs 270°C steam
+- Boiler 3M6/4 outputs 250°C steam
+- Turbines consume 250°C, MC-Turbine 270°C -> result = higher MW-outputs
+- Generators fixed MF-Temperatures 200°C-400°C -> result = lower MW-output but still strong
+
+new:
+- Steam-Overheater - overheats steam up to 1000°C (input steam any temperature)

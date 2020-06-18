@@ -1,0 +1,11 @@
+Version 0.2.45 - Notes
+
+Always Backup your Savegame before Update !
+
+- on remove List for next version = Vitduo Active Defense System
+
+changes:
+- dirt from toolhead changed from 4 to 5
+
+changes/fixes:
+- stack-sizes-code for mod-compatibilty -> thx to binbinhfr

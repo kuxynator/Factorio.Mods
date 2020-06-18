@@ -1,0 +1,9 @@
+Version 0.3.50 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- small changes and fixes in recipes
+- added a direct Tech-Sign recipe because the game craft otherwise something that includes Tech-Signs
+- added the Trader-Ultimate (works best with later yi-pfw -changes)
+- changed high-power-lamp - gfx and icon

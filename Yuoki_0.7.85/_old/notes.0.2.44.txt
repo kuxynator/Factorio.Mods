@@ -1,0 +1,16 @@
+Version 0.2.44 - Notes
+
+Always Backup your Savegame before Update !
+
+- on remove List for next version = Vitduo Active Defense System
+
+changes:
+- walls have fixed resistences
+
+new:
+- y_config.lua in the *.zip, to switch old-electric crusher+form-press on/off (true/false) by default=false
+- new Plasma-Gun Turret with Plasma-Ammunition (no plasma-resistence)
+- new Chemical-Gun Turret with Chemical and Flame-Thrower Ammunition (grill your steak)
+
+changes/fixes:
+- Mining Drills have sound

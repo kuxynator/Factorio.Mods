@@ -1,0 +1,15 @@
+Version 0.6.77 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- some recipes simpler to craft. 4 is max ingredient mostly now
+- all Fluid-Tanks lowered to original fluid-size before 0.16 and factorio-fluid changes. 
+- all accumulators have better store-capacity/charge/discharge balance. 
+  lowered the capacity, but all can now faster(max.50s) unload full capacity as night-cycle(120s) is.
+- exchange uses 
+
+  
+new:
+- Science-Packs -> Military(gray), Science-3(cyan), Production(purple), High-Tech(yellow), Space(white) can crafted with YI/YIE-Material
+

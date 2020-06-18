@@ -1,0 +1,9 @@
+Version 0.3.60 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- reordered Recipe-Lines
+- new liqiud (IWE)
+- new water-mixer to produce IWE
+- YI-Flame(Chemical)-Turret + Ammo removed

@@ -1,0 +1,13 @@
+Version 0.2.36 - Notes
+
+Always Backup your Savegame before Update !
+
+- still to not break save-games - old turrets change on remove
+
+changes
+- some recipes
+- small module value changes 
+
+new
+- 1 Flux-Compensator Mk4 - Simple Transfer Energy Limiter
+- 1 Flow-Indicator

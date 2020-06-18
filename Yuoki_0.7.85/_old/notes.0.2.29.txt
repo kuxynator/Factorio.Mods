@@ -1,0 +1,9 @@
+Version 0.2.29 - Notes
+
+Always Backup your Savegame before Update !
+
+- new 2x2 boiler
+- correct horizontal steam-turbine graphic
+- changed Small Fluid-Tank-Graphic
+- changed some values
+- some changes in advanced pipe production

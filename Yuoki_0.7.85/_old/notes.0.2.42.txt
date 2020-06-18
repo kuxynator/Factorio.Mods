@@ -1,0 +1,43 @@
+Version 0.2.42 - Notes
+
+Always Backup your Savegame before Update !
+
+changes:
+#entity
+- Crusher (2x2) uses Fuel (burner)
+- Heat-Form-Press (2x2) uses Fuel (burner)
+#recipes
+- Ancient Monument - Reputation 25->10
+- dirt is now worth 10/1 (removes dirt from 1.place in production-info)
+#graphics
+- YI-Inserter have new Base-gfx
+- gfx from fast-inserter (green) its now used for smart-inserter
+- fixed align of inserter-arms
+- new f7-pellet-gfx (more visual difference)
+- new n4-pellet-gfx (smoother)
+#parameter
+- solar stirling output 75kW
+- crafted items move into main-inventory or quickbar (included changes from BruteMan - Thanks)
+
+new:
+#entity
+- electric Crusher (3x3)
+- electric Formpress (3x3)
+- Maintance Workshop (3x3)
+- Tiny Tiny Sol-Ray-Stream-Collector (8x6)
+- Small Tiny Sol-Ray-Stream-Collector (10x8)
+- Smart Inserter (of course in YI-Quality)
+#recipes
+- recipe for drill head dirt-digging
+- recipe for toolhead-crushing
+- recipe for reparing broken Drillhead's
+- recipe for reparing broken Toolhead's
+#items
+- drill head 
+- broken drill head
+- tool head 
+- broken tool head
+
+summary:
+- possible new experiments in playstyle (repair-center-place or belt delivery) and solar-stuff to avoid ugly solar-farms
+- a small upgrade path for dirt-digging and crushing to improve production

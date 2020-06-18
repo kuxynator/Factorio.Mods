@@ -1,0 +1,21 @@
+Version 0.3.47 - Notes
+
+Always Backup your Savegame before Update !
+
+new:
+- some mastercrafted machinery's
+- trade-signs moved from pfw to core.
+- green-leafs as "green"-trade token
+- all signs can exchange into reputation and back (laika-gate)
+- blue-unified-sciene moved as unified science
+- output for pure-iron and pure-copper can improved with tool-head
+
+changes:
+- recipe for electric form-press consumes old form-press
+- recipe for electric crusher consumes old crusher
+- many recipes need now tech-signs or give tech-signs
+- trader-sign now yellow ^^ (because->tokens now blue, red, green, yellow)
+- different name-changes
+
+changes/fixes:
+- Vitduo Active Defense System removed -> update 0.13 reasons

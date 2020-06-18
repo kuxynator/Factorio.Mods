@@ -1,0 +1,11 @@
+{
+  "name": "Yi_Tech_Tree",
+  "version": "0.17.0",
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.17", "Yuoki >= 0.5.64", "? yi_engines >= 0.5.21"],
+  "title": "Yuoki Tech Tree",
+  "author": "Peppe",
+  "contact": "",
+  "homepage": "https://www.reddit.com/r/factorio/comments/52kvv0/experimental_override_mod_yuoki_tech_tree/",
+  "description": "Reduce information overload of using Yuoki's Mod's by unlocking the Yuoki Industries and Engines Addon (Optional) through a tech tree."
+}

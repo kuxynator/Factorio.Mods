@@ -1,0 +1,24 @@
+Version 0.2.32 - Notes
+
+Always Backup your Savegame before Update !
+
+- still all Entity-Descriptions off - because game cut's them no more -> long descriptions breaks the UI
+- still to not break save-games - old turrets change on remove
+
+changes
+- accumulators have more capacity and light different charge/discharge values
+- ups has now 25 MJ
+- upgrade accumulators now cheaper
+- changed gfx from most chests
+- all Lamps accept wires
+- if you break old YI-Chest they turn into NEW YI-Chests (all smart)
+- Crystal-Accumulator-Recipe removed
+- connection-range of Substation-M now 28 (from 25)
+- all walls have now correct connections (except center-cross -> removed by factorio)
+- vitduo-passive-defence better graphic
+
+new
+- added 2x2 Requester and Provider-Chest
+- 4 colored Lamps (Red, Green, Yellow, Blue)
+- 3 new pathways design your factory
+

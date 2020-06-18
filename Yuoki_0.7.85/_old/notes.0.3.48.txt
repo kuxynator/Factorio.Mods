@@ -1,0 +1,7 @@
+Version 0.3.48 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- dependency error form forum
+- some recipe-descriptions with status-values

@@ -1,0 +1,29 @@
+Version 0.6.75 - Notes
+
+Always Backup your Savegame before Update !
+
+removed:
+- Steam-Overheater
+- Water Mixer
+
+changes/fixes:
+- all Steam-Generators use 250°C Steam
+- all MF-Generators use 150°C MF
+- fluid consumption changed to these temperatures
+- Obninsk back to working condition
+- MEG now size 5x3
+
+new:
+- Obninsk cycle to produce better fuel for this reactor
+- Obninsk devilers directly MF (from fusion fuel), for MF-Generators
+
+Fusion Fuel Types can only used in YI-Reactors
+- Alien Fuel Cell - 300 MJ
+- MX-A Fusion Fuel - 1 GJ
+- MX-C Fusion Fuel - 7 GJ
+
+Radiation-Cycle 
+Prepare Fuel -> Radiate in Reactor Cycle -> Cooling -> Ready to use as reactor-fuel.
+drawback MF-Output is very low, so better you have 2 or more reactors and 1 dedicated to produce fuel.
+
+

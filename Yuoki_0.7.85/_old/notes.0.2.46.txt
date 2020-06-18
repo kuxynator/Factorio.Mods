@@ -1,0 +1,16 @@
+Version 0.2.46 - Notes
+
+Always Backup your Savegame before Update !
+
+- on remove List for next version = Vitduo Active Defense System
+
+new:
+- added a Tech-Sign (reward-sign)
+- Tech-Signs can traded into fame or "boost" fame-generation
+
+changes:
+- recipe for electric form-press consumes old form-press
+- recipe for electric crusher consumes old crusher
+- many recipes need now tech-signs or give tech-signs
+
+changes/fixes:

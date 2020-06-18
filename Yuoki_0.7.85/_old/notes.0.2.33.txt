@@ -1,0 +1,11 @@
+Version 0.2.34 - Notes
+
+Always Backup your Savegame before Update !
+
+- some Entity-Descriptions off - because game cut's them no more -> long descriptions breaks the UI
+- still to not break save-games - old turrets change on remove
+
+changes
+- the T's are back - seems factorio fixed the energy-bug - so i give them another try
+
+new

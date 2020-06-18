@@ -1,0 +1,9 @@
+Version 0.3.49 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- walls to show the gate-indicator (also was this the crash-reason ?)
+- breaking the Power-Plant gives you a MEG-5.4-S
+- SS-800-P build-recipe removed, breaking a SS-800-P give you a SS-800-S
+- SS-800-S has a new blue-gfx instead of green

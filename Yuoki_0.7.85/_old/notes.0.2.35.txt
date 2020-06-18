@@ -1,0 +1,18 @@
+Version 0.2.35 - Notes
+
+Always Backup your Savegame before Update !
+
+- still to not break save-games - old turrets change on remove
+
+changes
+- substation has a new graphic
+- defense is split into 2 lines - turrets and walls
+- the crystal-accumulator is back as Quantrinum-Accumulator (3x3) also new graphic
+- recipes of stage-2 modules changed
+- all items have a request-default now
+
+new
+- 3 new pink modules
+- 1 repair-tool
+- 1 work-tool
+- 2 recipes to support crafting the Quantrinum-Accumulator

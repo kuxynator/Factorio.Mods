@@ -1,0 +1,27 @@
+Version 0.3.62 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- ground floor lamps have no collision-box and can placed/removed with robots
+- repair-icons and smelter-product-icons changed, to get better visual feedback
+- plasma-capsules can used in Energy-Gun
+- weapon energy cartridges also taken from plasma-turrets
+- power-armor inventory-boni changed
+- YI-Roboports transfer much more charge-power
+- retrade from Reputation into Signs removed
+- both "brown"-modules removed
+- removed some leftovers (SCD-Accumulators, Steam-Powerplant, SS-Turbine-P and -T)
+
+new:
+- electric structure element (for later recipe-changes)
+- Techanic-Module (similar to old better brown module)
+- Science-Module (better productivity)
+- mastercrafted green boiler 4M2/4 (green 3M6/4)
+- YI-Personal-Roboport to get YI-Robots charged
+
+new Basement-Decoration-Set (Theme)
+- basement-factory
+- ground-floor lamp (2x2)
+- 7 basement-tiles 5x5
+- 1 basement-tile 4x4

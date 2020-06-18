@@ -1,0 +1,7 @@
+Version 0.2.30 - Notes
+
+Always Backup your Savegame before Update !
+
+- factorio 0.12+
+- Durotal Chest Smart -> removed - Empty all before update or trust the migration script
+- changed some Ammunition-graphics

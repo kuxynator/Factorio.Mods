@@ -1,0 +1,6 @@
+Version 0.3.61 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- YI-Power-Armor and Equipment

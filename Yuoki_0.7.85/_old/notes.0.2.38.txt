@@ -1,0 +1,17 @@
+Version 0.2.38 - Notes
+
+Always Backup your Savegame before Update !
+
+- still to not break save-games - old turrets change on remove
+
+changes
+- some recipes
+- fixed some (most) Bounding Boxes, so you can walk between more Objects
+- Range of Guns changed (+)
+- Alien-Lamp and High-Power-Lamp swaped gfx (badly i can't match overlay-light-color with gfx) - changed recipes too
+- speed-up for the 4R-Inserter
+- E2-miner GFX exchanged, size is now 5x5 !
+
+new
+- 1 Flying Logistic Robot
+- 1 Flying Construction Robot

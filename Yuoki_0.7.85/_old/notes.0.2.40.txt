@@ -1,0 +1,13 @@
+Version 0.2.40 - Notes
+
+Always Backup your Savegame before Update !
+
+- still to not break save-games - old turrets change on remove
+
+changes
+- new graphic for the 4R-Inserter
+- removed small-accumulators
+
+new
+- 1 Huge-Substation
+- 1 Fast-Inserter

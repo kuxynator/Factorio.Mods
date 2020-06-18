@@ -1,0 +1,26 @@
+Version 0.3.63 - Notes
+
+Always Backup your Savegame before Update !
+
+changes/fixes:
+- recipes for gun-turrets changed, can now handcrafted agian
+- recipes for laser-turrets use wired-capaciters instead of accumulators
+- missing UI descriptions reactivated
+- robots have now 400 health and physical-resistence (not shown ingame)
+- icons changes for better view
+- Big Advanced Accumulator - yeah animation is back (forum-post contrast ?)
+- fix Special Drill vibration (forum-post) and hopefully also jitter removed
+- hardic-wall gfx fixed (now it connect's in intended way - after 1.5 years)
+- YI-Atomics Icons all one style
+- Flame-Thrower-Turret reactivated
+- fixed some pipe-gfx
+- changed graphic Underground Tank 9.000
+- changed graphic Underground Tank 15.000, also now holds 24.000 units
+- changes the selection-box - basements
+- many recipes changed to give different signs
+- Roboport high-resolution, fixed view-angle
+
+new:
+- slag can now used as tile (just place it)
+- Signal-Connector (pole for wire with long connection range)
+- basement-ground-floor lamp (4x4)
