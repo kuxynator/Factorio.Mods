@@ -1,0 +1,135 @@
+space_collision_layer = "layer-14"
+rocket_capacity = 500
+
+--log(serpent.block( mods, {comment = false, numformat = '%1.8g' } ))
+
+if not mods["space-exploration-postprocess"] then
+  local message = "\n\n[font=default-large-bold][color=255,200,0]Please install the Space Exploration Postprocess mod.[/color][/font]"
+  message = message .. " \n\nYou have the Space Exploration mod installed but not the Space Exploration Postprocess mod. Both are required."
+  message = message .. " \n\nUnfortunately the postprocess mod can't be listed as a dependency without creating a dependancy loop, sorry for the inconvenience. "
+  message = message .. " \nTo install the postprocess mod you can disable Space Exploration using the 'disable listed mods' button below and reload the game,"
+  message = message .. " \ndownload Space Exploration Postprocess mod using the in-game interface, then enable both mods. \nAlternatively you can download the postprocess mod directly here:"
+  message = message .. " \nhttps://mods.factorio.com/mod/space-exploration-postprocess/downloads "
+  error(message)
+end
+
+require("prototypes/input")
+require("prototypes/shortcut")
+
+require("prototypes/item/science-pack")
+
+require("prototypes/damage-types")
+require("prototypes/categories")
+require("prototypes/item-groups")
+require("prototypes/signal")
+require("prototypes/sound")
+require("prototypes/styles")
+--require("prototypes/space-structures")
+
+require("prototypes/item/armor")
+require("prototypes/item/cargo-rocket")
+require("prototypes/item/condenser-turbine")
+require("prototypes/item/core-miner")
+require("prototypes/item/items")
+require("prototypes/item/meteor-defence")
+require("prototypes/item/platforms")
+require("prototypes/item/rocket-landing-pad")
+require("prototypes/item/rocket-launch-pad")
+require("prototypes/item/structures")
+require("prototypes/item/space-science-lab")
+require("prototypes/item/spaceship")
+
+require("prototypes/item/weapon-tesla")
+require("prototypes/item/weapon-plague")
+
+require("prototypes/item/equipment")
+
+require("prototypes/fluid/fluid")
+
+require("prototypes/recipe/recipe")
+require("prototypes/recipe/structures")
+require("prototypes/recipe/astrometrics-laboratory")
+require("prototypes/recipe/biochemical-laboratory")
+require("prototypes/recipe/cargo-rocket")
+require("prototypes/recipe/condenser-turbine")
+require("prototypes/recipe/core-miner")
+require("prototypes/recipe/decontamination-facility")
+require("prototypes/recipe/electromagnetics-laboratory")
+require("prototypes/recipe/material-fabricator")
+require("prototypes/recipe/genetics-laboratory")
+require("prototypes/recipe/gravimetrics-laboratory")
+require("prototypes/recipe/growth-facility")
+require("prototypes/recipe/hypercooler")
+require("prototypes/recipe/laser-laboratory")
+require("prototypes/recipe/lifesupport-facility")
+require("prototypes/recipe/manufacturing")
+require("prototypes/recipe/mechanical-laboratory")
+require("prototypes/recipe/observation")
+require("prototypes/recipe/particle-accelerator")
+require("prototypes/recipe/particle-collider")
+require("prototypes/recipe/plasma-generator")
+require("prototypes/recipe/platforms")
+require("prototypes/recipe/radiation-laboratory")
+require("prototypes/recipe/radiator")
+require("prototypes/recipe/recycling-facility")
+require("prototypes/recipe/rocket-landing-pad")
+require("prototypes/recipe/rocket-launch-pad")
+require("prototypes/recipe/science-lab")
+require("prototypes/recipe/science")
+require("prototypes/recipe/spectrometry-facility")
+require("prototypes/recipe/supercomputing")
+require("prototypes/recipe/thermodynamics-laboratory")
+require("prototypes/recipe/spaceship")
+
+require("prototypes/decorative/crater")
+require("prototypes/decorative/rocks")
+
+require("prototypes/entity/entity") -- must be first
+require("prototypes/entity/antimatter-reactor")
+require("prototypes/entity/astrometric-gravimetric")
+require("prototypes/entity/cargo-rocket")
+require("prototypes/entity/condenser-turbine")
+require("prototypes/entity/core-miner")
+require("prototypes/entity/decontamination-lifesupport")
+require("prototypes/entity/explosion")
+require("prototypes/entity/fluid-burner-generator")
+require("prototypes/entity/fuel-refinery")
+require("prototypes/entity/genetics-laboratory")
+require("prototypes/entity/growth-facility")
+require("prototypes/entity/laser-radi-spectro-thermo")
+require("prototypes/entity/light")
+require("prototypes/entity/meteor")
+require("prototypes/entity/meteor-defence")
+require("prototypes/entity/rail")
+require("prototypes/entity/recycle-mechanical")
+require("prototypes/entity/resources")
+require("prototypes/entity/rocket-fragments")
+require("prototypes/entity/rocket-landing-pad")
+require("prototypes/entity/rocket-launch-pad")
+require("prototypes/entity/particle-acc-col-fab")
+require("prototypes/entity/pipe")
+require("prototypes/entity/transport-belt")
+require("prototypes/entity/space-biochemical")
+require("prototypes/entity/space-capsule")
+require("prototypes/entity/space-electromagnetics")
+require("prototypes/entity/space-hypercooler")
+require("prototypes/entity/space-manufactory")
+require("prototypes/entity/space-plasma-generator")
+require("prototypes/entity/space-radiator")
+require("prototypes/entity/space-supercomputer")
+require("prototypes/entity/space-science-lab")
+require("prototypes/entity/spaceship")
+require("prototypes/entity/spaceship-obstacles")
+require("prototypes/entity/telescopes")
+
+require("prototypes/combined/electric-boiler")
+
+require("prototypes/tile/space")
+require("prototypes/tile/regolith")
+require("prototypes/tile/asteroid")
+require("prototypes/tile/scaffold")
+require("prototypes/tile/plating")
+require("prototypes/tile/spaceship")
+
+require("prototypes/technology/technology")
+--log( serpent.block( data.raw["tile"], {comment = false, numformat = '%1.8g' } ) )

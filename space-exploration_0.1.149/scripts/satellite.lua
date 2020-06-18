@@ -1,0 +1,53 @@
+local satellite = {
+  landing_offset = {3,5},
+  center = {11, 5},
+  tiles = {
+    ["se-space-platform-scaffold"] = {
+                                              {0, 5},
+                                      {1,4},  {1,5},  {1,6},
+                                      {2,4},  {2,5},  {2,6},
+                                      {3,4},  {3,5},  {3,6},
+                                      {4,4},  {4,5},  {4,6},
+                                      {5,4},  {5,5},  {5,6},
+                                              {9,5},
+                              {11,3},
+                                              {12,5},
+                                      {16,4}, {16,5}, {16,6},
+                                      {17,4}, {17,5}, {17,6},
+                                      {18,4}, {18,5}, {18,6},
+                                      {19,4}, {19,5}, {19,6},
+                                      {20,4}, {20,5}, {20,6},
+                                      {21,4}, {21,5}, {21,6}},
+    ["se-space-platform-plating"] = {
+                                              {6,5},
+                                              {7,5},
+                                              {8,5},
+              {10,0}, {10,1}, {10,2},                 {10,5}, {10,6}, {10,7}, {10,8}, {10,9},
+              {11,0}, {11,1}, {11,2},         {11,4}, {11,5}, {11,6}, {11,7}, {11,8},
+              {12,0}, {12,1}, {12,2},
+                                              {13,5},
+                                              {14,5},
+                                              {15,5},
+    },
+  },
+  entities = {
+    ["radar"] = {positions = {{11, 1}}},
+    ["substation"] = {positions = {{10.5, 5.5}}},
+    ["accumulator"] = {positions = {{10.5, 7.5}}},
+    ["solar-panel"] = {positions = {{17, 5}, {20, 5}}},
+    ["iron-chest"] = {positions = {{11,4}}, stacks = {
+      {name = "automation-science-pack", count = 1000},
+      {name = "logistic-science-pack", count = 1000},
+      {name = "chemical-science-pack", count = 1000},
+      {name = "space-science-pack", count = 1000},
+      {name = "solar-panel", count = 10},
+      {name = "raw-fish", count = 1},
+      {name = mod_prefix.."medpack", count = 1},
+      {name = mod_prefix.."space-science-lab", count = 1},
+      {name = mod_prefix.."space-platform-plating", count = 100},
+      {name = mod_prefix.."space-platform-scaffold", count = 200},
+    }},
+  },
+}
+
+return satellite

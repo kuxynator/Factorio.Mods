@@ -1,0 +1,82 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.144
+Date: 24. 11. 2019
+  Changes:
+    - Added a collision layer to all rails to add support for cargo ships and similar mods.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.43
+Date: 22. 09. 2019
+  Bugfixes:
+    - Fix issue caused by having bobs enemies installed but not bobs library.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.41
+Date: 30. 07. 2019
+  Bugfixes:
+    - Fixed icon scaling issue.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.40
+Date: 26. 07. 2019
+  Bugfixes:
+    - Fixed compatibility issue with bobs-angels rocket fuel.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.39
+Date: 24. 07. 2019
+  Changes:
+    - Updated science pack icons to 64x64px
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.38
+  Changes:
+    - QOL research support thanks to Dullahan.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.37
+  Changes:
+    - Made optional dependencies that are not recommendations invisible.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.36
+  Changes:
+    - Fixed another tech loop with bobs tech.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.35
+  Changes:
+    - Update to teleportation tech
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.34
+  Changes:
+    - Fixed another tech loop with bobs tech.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.33
+  Changes:
+    - Bob's Warfare and alien research patch thanks to Dullahan
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.32
+  Info:
+    - Changes for Factorio 0.17.35
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.31
+  Bugfixes:
+    - Fixed tech loop with angels refining.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.30
+  Changes:
+    - Changed power armor tech distribution.
+    - Bootstrap compatibility for Portals, Teleporters, Darkstar_utilities, and NPUtils
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.29
+  Info:
+    - Moved most compatibility fixes into a separate file so that Space Exploration can be a dependency of other mods, but other mods can be specified in the postprocess without causing a dependency loop. Allows better control over mod load order so compatibility patches work as expected.
+  Bugfixes:
+    - Fixed an issue with low density structure tech with bobs-angels.
