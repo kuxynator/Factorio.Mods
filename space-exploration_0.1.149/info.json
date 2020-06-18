@@ -13,7 +13,7 @@
     "? aai-signal-transmission >= 0.1.1",
     "? bullet-trails >= 0.4.1",
     "? grappling-gun >= 0.1.2",
-    "! ab_logisticscenter",
+    "? ab_logisticscenter",
     "! angelsinfiniteores",
     "! BasicSeaBlock",
     "! bobmodules",
