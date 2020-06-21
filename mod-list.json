@@ -359,6 +359,11 @@
     },
     
     {
+      "name": "bobsflowcontrol-updated",
+      "enabled": true
+    },
+    
+    {
       "name": "bobtech",
       "enabled": true
     },
@@ -541,6 +546,11 @@
     {
       "name": "faster-start",
       "enabled": false
+    },
+    
+    {
+      "name": "Flow Control",
+      "enabled": true
     },
     
     {
